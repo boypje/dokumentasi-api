@@ -9,11 +9,6 @@
   "schemes": [
     "https"
   ],
-  "servers": [
-    {
-      "url": "/api/v3"
-    }
-  ],
   "tags": [
     {
       "name": "success",
